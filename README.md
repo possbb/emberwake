@@ -1,6 +1,6 @@
-# 余烬回廊 · EMBERWAKE
+# 灵伴异闻录 · Crónicas de los Compañeros Mágicos
 
-Official development showcase for 余烬回廊: a fairytale survival roguelike with local co-op, evolving magic, companions, and character transformations.
+Official development showcase for 灵伴异闻录: a fairytale survival roguelike with local co-op, evolving magic, companions, and character transformations.
 
 Live website: https://possbb.github.io/emberwake/
 
