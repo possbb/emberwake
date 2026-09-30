@@ -24,7 +24,8 @@ for (const link of document.querySelectorAll('[data-card-title]')) link.addEvent
   document.getElementById('viewer-title').textContent = link.dataset.cardTitle;
   document.getElementById('viewer-image').src = link.href;
   document.getElementById('viewer-image').alt = `${link.dataset.cardTitle}完整参考故事卡`;
-  document.getElementById('viewer-original').href = link.href;
+  const original = document.getElementById('viewer-original');
+  if (original) original.href = link.href;
   viewer.showModal();
 });
 document.getElementById('viewer-close').addEventListener('click', () => viewer.close());
