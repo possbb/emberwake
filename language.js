@@ -35,7 +35,7 @@
     }
     const gameplay = document.getElementById('gameplay');
     if (gameplay) {
-      const path = `media/gameplay-${language}.mp4`;
+      const path = `media/gameplay-${language}.mp4${language === 'en' ? '?v=goldmark-1' : ''}`;
       const source = gameplay.querySelector('source');
       if (source.getAttribute('src') !== path) {
         gameplay.pause();
@@ -46,7 +46,7 @@
     }
     const hero = document.getElementById('hero-video');
     if (hero) {
-      const path = language === 'en' ? 'media/gameplay-en.mp4' : 'media/trailer.mp4?v=lingban-1';
+      const path = language === 'en' ? 'media/gameplay-en.mp4?v=goldmark-1' : 'media/trailer.mp4?v=lingban-1';
       const source = hero.querySelector('source');
       if (source.getAttribute('src') !== path) { source.src = path; hero.load(); }
       if (!hero.hidden) hero.play().catch(() => { hero.hidden = true; });
