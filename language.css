@@ -1,0 +1,16 @@
+.language-switch{display:flex;align-items:center;gap:3px;flex-shrink:0;border:1px solid #e3c59055;border-radius:4px;padding:3px;background:#0b1718b8}
+.language-switch button{font:12px Arial,sans-serif;color:var(--text);background:transparent;border:0;border-radius:2px;padding:7px 9px;cursor:pointer;white-space:nowrap}
+.language-switch button[aria-pressed=true]{background:var(--gold);color:#0b1718}
+.language-switch button:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+.header{gap:16px}.header nav{flex:1;justify-content:center;gap:18px}.header>.status{white-space:nowrap}
+.lore-header{gap:20px}.lore-header>.language-switch{margin-left:auto}
+html[lang=en]{--ui-font:Arial,Helvetica,sans-serif;--serif:Georgia,'Times New Roman',serif}
+html[lang=en] .hero-line{line-height:1.25;letter-spacing:0}
+html[lang=en] h2{letter-spacing:0;line-height:1.25}
+html[lang=en] .hero-description{max-width:560px}
+html[lang=en] .hero-content{max-width:1200px}
+html[lang=en] .lore-caption h2{font-size:18px;overflow-wrap:anywhere}
+html[lang=en] .hero-bottom{letter-spacing:0}
+@media(max-width:1200px){.header>.status{display:none}.header nav{gap:12px}.header .brand{font-size:14px}}
+@media(max-width:900px){.header{height:auto;min-height:112px;flex-wrap:wrap;padding-block:16px;gap:12px}.header>.language-switch{margin-left:auto}.header nav{order:3;width:100%;flex-basis:100%;justify-content:flex-start;flex-wrap:wrap;gap:10px 18px}.header nav a{display:block!important}.hero-content{padding-top:190px}.lore-header{flex-wrap:wrap}.lore-header>a:nth-child(2){order:3;width:100%}}
+@media(max-width:680px){.header{min-height:120px;padding-inline:20px;align-content:center}.header .brand{font-size:13px;letter-spacing:1px}.language-switch button{padding:7px 8px;font-size:12px}.header nav{gap:8px 14px}.header nav a{font-size:11px}.hero-content{padding-top:190px}html[lang=en] .hero-line{font-size:32px}html[lang=en] .hero-bottom{font-size:9px}html[lang=en] .hero-bottom b{margin-inline:4px}html[lang=en] .hero-bottom>a{display:none}html[lang=en] .section-heading h2{font-size:29px}.lore-filters{max-width:100%}html[lang=en] .lore-filters button{padding:9px 10px;font-size:11px}}

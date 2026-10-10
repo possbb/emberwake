@@ -6,6 +6,10 @@ Live website: https://possbb.github.io/emberwake/
 
 Static HTML/CSS/JavaScript, with locally hosted promotional and gameplay videos. No build step or third-party services required.
 
+Use the top-right 中文 / English controls to change language. The preference is remembered locally; `?lang=en` and `?lang=zh` provide direct language links. The homepage and reference archive share translations and controls. Original reference-card artwork retains its Chinese text; names and descriptions are translated.
+
+The gameplay player selects the latest 59-second Chinese or English showcase for the chosen language. The English hero background uses the English gameplay video; the Chinese background retains the cinematic. Background playback runs once.
+
 The cinematic trailer is AI-generated with Doubao and is labeled separately from the in-engine development gameplay montage. The game is in development; no release date or store availability is announced here.
 
 ## Preview

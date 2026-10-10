@@ -6,7 +6,7 @@ const finishHero = () => {
 heroVideo.addEventListener('ended', finishHero, { once: true });
 heroVideo.addEventListener('error', finishHero, { once: true });
 heroVideo.muted = true;
-heroVideo.play().catch(finishHero);
+// language.js selects the localized background before starting playback.
 
 const videos = [...document.querySelectorAll('.film video')];
 for (const video of videos) {
