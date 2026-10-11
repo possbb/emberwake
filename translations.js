@@ -247,3 +247,5 @@ window.siteEnglish = {
 };
 
 Object.assign(window.siteEnglish, {"活动展示截图：关闭角色攻击与自然刷怪，并隐藏部分界面，便于看清活动目标和路线。": "Activity showcase captures: player attacks and natural enemy spawns are disabled, with some interface elements hidden, to keep objectives and routes clear."});
+
+Object.assign(window.siteEnglish, {"每次升级，找到自己的打法。": "Find your playstyle with every upgrade."});
