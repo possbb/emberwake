@@ -6,7 +6,7 @@ function filterCards() {
   const query = search.value.trim().toLocaleLowerCase();
   let count = 0;
   for (const card of cards) {
-    card.hidden = !((category === '全部' || card.dataset.category === category) && card.textContent.toLocaleLowerCase().includes(query));
+    card.hidden = !((category === '全部' || card.dataset.category === category) && (card.querySelector('[data-card-title]')?.dataset.cardTitle || '').toLocaleLowerCase().includes(query));
     if (!card.hidden) count++;
   }
   document.getElementById('card-count').textContent = window.siteLanguage.t(`共 ${count} 张参考故事卡 · 点击卡面可放大`, `${count} reference ${count === 1 ? 'card' : 'cards'} · Select a card to enlarge`);

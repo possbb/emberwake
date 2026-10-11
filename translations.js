@@ -266,3 +266,11 @@ Object.assign(window.siteEnglish, {
   "临时化身亡魂剑姬，获得 1000 点形态生命，以连斩与重斩、十字斩和月轮范围攻击迎战敌群。变身期间由剑姬招式接替角色原有攻击。": "Become the Spectral Swordswoman with 1,000 form health. Fight with slash combos, heavy strikes, cross cuts and a circular moon attack. Her moves replace your normal attacks during the form.",
   "适合突入敌阵近身清场。持续时间结束或形态生命耗尽时，恢复原角色。": "Step into the horde for a close-range clear. Return to your original hero when the duration ends or form health runs out."
 });
+
+Object.assign(window.siteEnglish, {
+  "9 种怪物与 3 位 Boss 的灵感卡片。点击卡面即可放大查看。": "Inspiration cards for 9 monsters and 3 bosses. Select a card to enlarge it.",
+  "怪物与首领，": "Monsters and bosses,",
+  "全部 12": "All 12"
+});
+
+Object.assign(window.siteEnglish, {"阅读Paisley异闻录的 12 张怪物与 Boss 灵感卡片。": "Explore 12 monster and boss inspiration cards from Paisley.", "每一位异兽，": "Every creature,", "从童话森林到星河天井，认识旅途中遇见的怪物与 Boss。": "Meet the monsters and bosses from Fairytale Forest to Starlit Sanctuary.", "点击卡面，放大查看原图。": "Select a card to view the original artwork.", "共收录 9 种怪物与 3 位 Boss。卡面保留原始画面与文字，属于创作参考。": "Featuring 9 monsters and 3 bosses. Cards preserve their original artwork and text as creative references."});
