@@ -1,7 +1,7 @@
 /* Current game showcase. Existing site typography and palette are retained. */
 .hero-art{background-image:url(media/current/boss.webp)}
 .hero-shade{background:linear-gradient(90deg,#071315f5 0%,#071315c7 40%,#07131530 85%),linear-gradient(0deg,var(--bg),transparent 45%)}
-.current-roster{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.current-roster{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
 .current-roster article{border:1px solid var(--line);background:linear-gradient(155deg,#183337,#0b191c);overflow:hidden}
 .current-hero-art{height:290px;display:flex;justify-content:center;align-items:end;padding:26px;background:radial-gradient(ellipse at 50% 90%,#c7b27625,transparent 70%)}
 .current-hero-art img{width:auto;height:100%;max-width:100%;object-fit:contain;filter:drop-shadow(0 12px 14px #0005)}
@@ -18,3 +18,5 @@
 @media(max-width:1050px){.header nav{gap:12px;font-size:11px}.current-hero-copy{padding:22px}.current-hero-art{height:240px}.companion-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:680px){.current-roster,.encounter-grid,.growth-grid{grid-template-columns:1fr}.current-hero-art{height:280px}.companion-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.section{padding-top:65px;padding-bottom:65px}.header nav{display:flex;overflow-x:auto;flex-wrap:nowrap;white-space:nowrap;justify-content:flex-start;width:100%;padding-bottom:5px}.header{height:125px}.hero-content{padding-top:178px}.hero{min-height:790px}.hero-bottom{flex-wrap:wrap;gap:12px}.art-note{bottom:110px;right:24px}.hero-description{font-size:14px}.actions{flex-wrap:wrap}.current-hero-copy h3{font-size:26px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.hero-art video{display:none}}
+
+.film-grid{grid-template-columns:1fr;max-width:1000px;margin-inline:auto}
