@@ -36,4 +36,18 @@
 
 #map-tasks .encounter-grid{grid-template-columns:repeat(2,minmax(0,1fr))}@media(max-width:680px){#map-tasks .encounter-grid{grid-template-columns:1fr}}
 
-.world-story{margin:40px 0 0;max-width:none}.world-story .video-frame{aspect-ratio:16/9;background:#071315}.world-story video{display:block;width:100%;height:100%;object-fit:contain}.world-story figcaption{display:flex;justify-content:space-between;gap:24px;padding:24px 0;border-bottom:1px solid var(--line)}.world-story h3{font-size:24px;margin:10px 0}.world-story p{font-size:13px;margin:0}.world-story-note{font-size:11px;color:var(--muted);white-space:nowrap;align-self:flex-end}@media(max-width:680px){.world-story figcaption{flex-direction:column;gap:12px}.world-story-note{align-self:flex-start;white-space:normal}.world-story{margin-top:28px}}
+/* Story opening and chapters share one compact world module. */
+.world-overview{border:1px solid var(--line);background:#102021;padding:24px}
+.world-story{display:grid;grid-template-columns:minmax(0,380px) minmax(0,1fr);align-items:center;gap:32px;margin:0 0 24px;padding-bottom:24px;border-bottom:1px solid var(--line);max-width:none}
+.world-story .video-frame{aspect-ratio:16/9;background:#071315}
+.world-story video{display:block;width:100%;height:100%;object-fit:contain}
+.world-story figcaption{min-width:0}
+.world-story h3{font-size:24px;margin:10px 0}
+.world-story p{font-size:13px;margin:0;max-width:540px}
+.world-story-note{display:block;font-size:10px;color:var(--muted);margin-top:16px}
+.world-overview .world-grid{gap:20px}
+.world-overview .world-grid article{background:#142526;border-bottom:0}
+.world-overview .world-grid article>div{padding:18px 20px 20px}
+.world-overview .world-grid h3{font-size:23px;margin-top:8px}
+@media(max-width:1000px){.world-story{grid-template-columns:minmax(0,42%) minmax(0,1fr);gap:24px}.world-story h3{font-size:21px}.world-overview{padding:20px}.world-overview .world-grid{gap:14px}.world-overview .world-grid article>div{padding:16px}}
+@media(max-width:680px){.world-overview{padding:16px}.world-story{grid-template-columns:1fr;gap:16px;margin-bottom:20px;padding-bottom:20px}.world-story h3{font-size:22px}.world-story-note{margin-top:12px}.world-overview .world-grid{gap:16px}.world-overview .world-grid article{display:grid;grid-template-columns:38% minmax(0,1fr);align-items:center}.world-overview .world-grid img{height:100%;aspect-ratio:auto;object-fit:cover}.world-overview .world-grid article>div{padding:14px}.world-overview .world-grid h3{font-size:19px;margin:4px 0}.world-overview .world-grid p{font-size:11px}.world-overview .world-grid .eyebrow{font-size:8px;letter-spacing:.12em}}
