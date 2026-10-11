@@ -327,3 +327,10 @@ Object.assign(window.siteEnglish, {"选择你的冒险伙伴。": "Choose your a
 Object.assign(window.siteEnglish, {"15秒故事开场：小公主化为灵体进入异闻录": "15-second opening: Paisley enters the storybook as a spirit", "下载故事视频": "Download story video", "翻开异闻录，走进故事。": "Open the book. Enter the story.", "当传说忘记了结局，Paisley回应书中的求救，化为灵体进入异闻之境。": "As legends forget their endings, Paisley answers a call from the book and enters its world as a spirit.", "故事开场动画 · 中文配音 · 非实机画面": "Opening cinematic · Chinese dialogue · Not gameplay footage"});
 
 Object.assign(window.siteEnglish, {"捣蛋小精灵": "Mischievous Sprite", "追上四处逃窜的小精灵，碰到它就能收获金币。": "Chase the mischievous sprite and collect coins each time you catch up."});
+
+Object.assign(window.siteEnglish, {
+  "Paisley｜循星而来的小公主": "Paisley | The Princess Who Followed the Stars",
+  "听见古书中微弱的求救，她化为星光走进传说。她想找回那些消失的结局，也想知道，故事里的人究竟在等待谁。": "Hearing a faint cry for help from an ancient book, she becomes starlight and steps into legend. She hopes to recover the endings that vanished—and discover whom the people in those stories are waiting for.",
+  "Magec｜曙光之子": "Magec | Son of the Dawn",
+  "日轮已经破碎，他却仍在长夜中守候。即使忘记了曾经守护的人，他也记得自己答应过——要带他们看见天亮。": "The sun has shattered, yet he keeps his vigil through the endless night. Though he has forgotten those he once protected, he remembers his promise—to lead them into the dawn."
+});
