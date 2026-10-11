@@ -321,3 +321,5 @@ Object.assign(window.siteEnglish, {
   "觉醒力量": "Awaken your power",
   "积攒充能，在关键时刻释放角色专属力量。": "Build charge and unleash your hero’s signature power when it matters."
 });
+
+Object.assign(window.siteEnglish, {"选择你的冒险伙伴。": "Choose your adventurer.", "两位主角，更多相遇正在路上。": "Two heroes, with more encounters to come.", "敬请期待": "Coming soon"});
