@@ -249,3 +249,20 @@ window.siteEnglish = {
 Object.assign(window.siteEnglish, {"活动展示截图：关闭角色攻击与自然刷怪，并隐藏部分界面，便于看清活动目标和路线。": "Activity showcase captures: player attacks and natural enemy spawns are disabled, with some interface elements hidden, to keep objectives and routes clear."});
 
 Object.assign(window.siteEnglish, {"每次升级，找到自己的打法。": "Find your playstyle with every upgrade."});
+
+Object.assign(window.siteEnglish, {
+  "三种力量奇遇，拾取即刻生效。": "Three power encounters. Pick one up and feel the difference.",
+  "在地图上发现力量道具，靠近拾取，获得持续 20 秒的临时力量。": "Discover a power pickup on the map and approach it to gain a temporary power lasting 20 seconds.",
+  "引力弹珠": "Gravity Marble",
+  "聚怪 · 黑洞爆发": "Gather enemies · Black-hole burst",
+  "获得黑洞之力，每隔 4 秒寻找附近敌人生成引力黑洞，将范围内的怪物拉向中心，随后引爆造成范围伤害。": "Gain black-hole power. Every 4 seconds, it seeks a nearby enemy to create a vortex, draws surrounding monsters inward and explodes for area damage.",
+  "把分散的怪群聚在一起，方便集中清理；Boss 不会被牵引。": "Pull scattered monsters together for a focused clear. Bosses cannot be pulled.",
+  "雷霆疾走": "Lightning Stride",
+  "移速 +50% · 连锁闪电": "+50% movement speed · Chain lightning",
+  "移动速度提高 50%。移动时触发连锁闪电，最多串联 8 个目标，并在经过的地面留下短暂雷痕，伤害踏入其中的敌人。": "Move 50% faster. While moving, trigger chain lightning across up to 8 targets and leave short-lived electrified trails that damage enemies crossing them.",
+  "边走位边输出，适合穿过怪群、拉开距离；停步后不会继续生成新的闪电与雷痕。": "Keep moving to deal damage while weaving through enemies or creating distance. Standing still stops new lightning and trails.",
+  "亡魂剑姬（女剑士）": "Spectral Swordswoman",
+  "临时变身 · 近身斩击": "Temporary form · Close-range slashes",
+  "临时化身亡魂剑姬，获得 1000 点形态生命，以连斩与重斩、十字斩和月轮范围攻击迎战敌群。变身期间由剑姬招式接替角色原有攻击。": "Become the Spectral Swordswoman with 1,000 form health. Fight with slash combos, heavy strikes, cross cuts and a circular moon attack. Her moves replace your normal attacks during the form.",
+  "适合突入敌阵近身清场。持续时间结束或形态生命耗尽时，恢复原角色。": "Step into the horde for a close-range clear. Return to your original hero when the duration ends or form health runs out."
+});
