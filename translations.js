@@ -282,3 +282,8 @@ Object.assign(window.siteEnglish, {
   "短暂化身亡魂剑姬，以凌厉剑斩冲破敌阵。": "Become the Spectral Swordswoman and cut through the horde with fierce slashes.",
   "拾取地图上的力量道具，获得短暂而强大的战斗力量。": "Discover power pickups and gain a brief burst of extraordinary combat power."
 });
+
+Object.assign(window.siteEnglish, {
+  "跟着金羽，发现宝藏。": "Follow golden wings to hidden treasure.",
+  "跟随金色小鸟穿过森林，找到它为你发现的隐藏宝箱。": "Follow the golden bird through the forest to discover a hidden treasure chest."
+});
