@@ -287,3 +287,20 @@ Object.assign(window.siteEnglish, {
   "跟着金羽，发现宝藏。": "Follow golden wings to hidden treasure.",
   "跟随金色小鸟穿过森林，找到它为你发现的隐藏宝箱。": "Follow the golden bird through the forest to discover a hidden treasure chest."
 });
+
+Object.assign(window.siteEnglish, {
+  "地图任务，让探索多一份牵挂。": "Map quests. More reasons to explore.",
+  "追迹 · 救助 · 试炼": "Track · Rescue · Overcome",
+  "星光追迹": "Starlight Trail",
+  "循着星光石的指引，收集散落在地图中的星光。": "Follow the starlight stones and collect scattered stars.",
+  "狩猎异变者": "Hunt the Mutant",
+  "追踪并击败被标记的异变者，完成一场特别狩猎。": "Track down a marked mutant and complete a special hunt.",
+  "遗迹试炼": "Ruins Trial",
+  "踏入古老遗迹，守住核心区域，迎接接连而来的挑战。": "Enter ancient ruins and hold your ground against waves of enemies.",
+  "寻回宝匣": "Recover the Treasure",
+  "击败守卫，取回藏在地图中的宝匣。": "Defeat the guards and claim the hidden treasure chest.",
+  "翠羽报恩": "A Hummingbird’s Gratitude",
+  "解除荆棘、救出蜂鸟，让获救的小伙伴伴你探索。": "Break the thorns and rescue a hummingbird to join your exploration.",
+  "沉城引灯": "Lanterns of the Sunken City",
+  "跟随魂灯穿过沉城，完成引路之旅，收获宝箱与祝福。": "Follow a spirit lantern through the sunken city to earn treasure and a blessing."
+});
