@@ -46,7 +46,7 @@
     }
     const hero = document.getElementById('hero-video');
     if (hero) {
-      const path = 'media/paisley-cinematic-30s-20261011.mp4';
+      const path = 'media/paisley-cinematic-clean-30s-20261011.mp4';
       const source = hero.querySelector('source');
       if (source.getAttribute('src') !== path) { source.src = path; hero.load(); }
       if (!hero.hidden && !matchMedia('(prefers-reduced-motion: reduce)').matches) hero.play().catch(() => { hero.hidden = true; });

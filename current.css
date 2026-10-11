@@ -1,5 +1,5 @@
 /* Current game showcase. Existing site typography and palette are retained. */
-.hero-art{background-image:url(media/current/boss.webp)}
+.hero-art{background-image:url(media/current/cinematic-clean-poster-20261011.webp)}
 .hero-shade{background:linear-gradient(90deg,#071315f5 0%,#071315c7 40%,#07131530 85%),linear-gradient(0deg,var(--bg),transparent 45%)}
 .current-roster{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
 .current-roster article{border:1px solid var(--line);background:linear-gradient(155deg,#183337,#0b191c);overflow:hidden}
