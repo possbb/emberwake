@@ -334,3 +334,5 @@ Object.assign(window.siteEnglish, {
   "Magec｜曙光之子": "Magec | Son of the Dawn",
   "日轮已经破碎，他却仍在长夜中守候。即使忘记了曾经守护的人，他也记得自己答应过——要带他们看见天亮。": "The sun has shattered, yet he keeps his vigil through the endless night. Though he has forgotten those he once protected, he remembers his promise—to lead them into the dawn."
 });
+
+Object.assign(window.siteEnglish, {"跟随金色小鸟，找到它为你发现的隐藏宝箱。": "Follow the golden bird to the hidden treasure chest it has found for you."});
