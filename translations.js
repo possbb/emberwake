@@ -245,3 +245,5 @@ window.siteEnglish = {
   "实机片段为游戏内编排演示，隐藏部分界面，并非一局连续游玩录像。": "This in-engine showcase uses staged scenes with some interface elements hidden; it is not a continuous playthrough.",
   "从一束星光、一道晨曦开始。选择强化方向，逐步进化，让小小的法术绽放成满屏魔法。": "Begin with starlight or a ray of dawn. Choose upgrades and evolve small spells into screen-filling magic."
 };
+
+Object.assign(window.siteEnglish, {"活动展示截图：关闭角色攻击与自然刷怪，并隐藏部分界面，便于看清活动目标和路线。": "Activity showcase captures: player attacks and natural enemy spawns are disabled, with some interface elements hidden, to keep objectives and routes clear."});

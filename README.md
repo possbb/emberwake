@@ -31,3 +31,5 @@ Content was checked against survival-config.json, xana.json, magec.json, compani
 ## Public content boundary
 
 Use the formal-mode gates, not asset existence or developer access, as the publication boundary. `godot/character_unlocks.gd` withholds bear, xana and guayota. `game.gd` disables the talent screen and talent effects outside developer mode. Only Princess and Magec are shown. Five enabled companions remain available through the formal collection and loadout flow. Hail, lightning and Cloud Serpent reference cards are removed because they are not in the playable formal roster skill pool. The old cinematic and obsolete gameplay video are withdrawn because they include withheld content. Do not restore these through screenshots, archives, translations or future-hero placeholders.
+
+Activity showcase stills use dedicated no-attack captures (2026-10-11). Disable character attacks, upgrades, talent effects and natural spawns for these shots; keep activity objects and routes visible. Use close framing. This is a capture-only arrangement, not a change to game rules.
