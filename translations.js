@@ -304,3 +304,8 @@ Object.assign(window.siteEnglish, {
   "沉城引灯": "Lanterns of the Sunken City",
   "跟随魂灯穿过沉城，完成引路之旅，收获宝箱与祝福。": "Follow a spirit lantern through the sunken city to earn treasure and a blessing."
 });
+
+Object.assign(window.siteEnglish, {
+  "小公主的原型参考，是我的女儿。": "My daughter is the inspiration behind the little princess.",
+  "女儿的照片，以游戏小公主风格呈现": "A photo of my daughter, reimagined in the style of the game’s little princess"
+});

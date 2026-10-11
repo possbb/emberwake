@@ -27,3 +27,5 @@
 @media(max-width:800px){.power-grid{grid-template-columns:1fr;gap:20px}.power-encounters{margin-top:36px}.power-grid article{padding:22px}}
 
 .power-art{position:relative;width:200px;height:200px;margin:0 auto 24px;overflow:hidden}.power-art img{display:block;width:100%;height:100%;object-fit:contain}.power-art-gravity img{position:absolute;left:0;top:0;width:600px;height:400px;max-width:none}.power-grid article>p{margin-bottom:0}
+
+.princess-inspiration{max-width:900px;margin:64px auto 0}.princess-inspiration img{display:block;width:100%;height:auto;border:1px solid var(--line)}.princess-inspiration figcaption{text-align:center;color:var(--gold);font:400 clamp(17px,2vw,23px)/1.8 var(--serif);margin-top:22px}
