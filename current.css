@@ -25,3 +25,5 @@
 .power-encounters>h3{font:400 clamp(24px,2.6vw,34px)/1.5 var(--serif);margin-bottom:15px}.power-intro{font-size:14px;max-width:780px}
 .power-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px;margin-top:32px}.power-grid article{padding:24px;border:1px solid var(--line);background:#0c1b1e70}.power-grid h4{font-size:21px;font-weight:500;line-height:1.6;margin:12px 0}.power-grid p{font-size:13px;line-height:2}.power-grid .power-tag{color:var(--gold);font-size:12px}.power-tip{border-top:1px solid var(--line);padding-top:18px;margin-bottom:0}
 @media(max-width:800px){.power-grid{grid-template-columns:1fr;gap:20px}.power-encounters{margin-top:36px}.power-grid article{padding:22px}}
+
+.power-art{position:relative;width:200px;height:200px;margin:0 auto 24px;overflow:hidden}.power-art img{display:block;width:100%;height:100%;object-fit:contain}.power-art-gravity img{position:absolute;left:0;top:0;width:600px;height:400px;max-width:none}.power-grid article>p{margin-bottom:0}

@@ -274,3 +274,11 @@ Object.assign(window.siteEnglish, {
 });
 
 Object.assign(window.siteEnglish, {"阅读Paisley异闻录的 12 张怪物与 Boss 灵感卡片。": "Explore 12 monster and boss inspiration cards from Paisley.", "每一位异兽，": "Every creature,", "从童话森林到星河天井，认识旅途中遇见的怪物与 Boss。": "Meet the monsters and bosses from Fairytale Forest to Starlit Sanctuary.", "点击卡面，放大查看原图。": "Select a card to view the original artwork.", "共收录 9 种怪物与 3 位 Boss。卡面保留原始画面与文字，属于创作参考。": "Featuring 9 monsters and 3 bosses. Cards preserve their original artwork and text as creative references."});
+
+Object.assign(window.siteEnglish, {
+  "亡魂剑姬": "Spectral Swordswoman",
+  "召唤黑洞，将怪群聚拢后一举引爆。": "Summon a black hole to gather enemies and blast them apart.",
+  "化作奔走的雷霆，以连锁闪电横扫沿途敌人。": "Race through the battlefield, sweeping enemies away with chain lightning.",
+  "短暂化身亡魂剑姬，以凌厉剑斩冲破敌阵。": "Become the Spectral Swordswoman and cut through the horde with fierce slashes.",
+  "拾取地图上的力量道具，获得短暂而强大的战斗力量。": "Discover power pickups and gain a brief burst of extraordinary combat power."
+});
