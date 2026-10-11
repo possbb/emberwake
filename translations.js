@@ -309,3 +309,15 @@ Object.assign(window.siteEnglish, {
   "小公主的原型参考，是我的女儿。": "My daughter is the inspiration behind the little princess.",
   "女儿的照片，以游戏小公主风格呈现": "A photo of my daughter, reimagined in the style of the game’s little princess"
 });
+
+Object.assign(window.siteEnglish, {
+  "小小的身影，大大的魔法。": "Little heroes. Extraordinary magic.",
+  "并肩冒险": "Adventure together",
+  "本地双人合作，靠近合屏，远离自动分屏。": "Play local co-op with a shared view up close and split-screen farther apart.",
+  "魔法进化": "Evolve your magic",
+  "选择升级，让小小的法术成长为满屏魔法。": "Choose upgrades and grow small spells into screen-filling magic.",
+  "灵兽相伴": "Spirit companions",
+  "五位伙伴，自由搭配被动能力与主动技能。": "Mix passive benefits and active abilities from five companions.",
+  "觉醒力量": "Awaken your power",
+  "积攒充能，在关键时刻释放角色专属力量。": "Build charge and unleash your hero’s signature power when it matters."
+});

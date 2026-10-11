@@ -46,11 +46,11 @@
     }
     const hero = document.getElementById('hero-video');
     if (hero) {
-      const path = language === 'en' ? 'media/gameplay-en.mp4?v=goldmark-1' : 'media/gameplay-zh.mp4';
+      const path = 'media/paisley-cinematic-30s-20261011.mp4';
       const source = hero.querySelector('source');
       if (source.getAttribute('src') !== path) { source.src = path; hero.load(); }
       if (!hero.hidden && !matchMedia('(prefers-reduced-motion: reduce)').matches) hero.play().catch(() => { hero.hidden = true; });
-      document.querySelector('.art-note').textContent = language === 'en' ? 'In-engine footage · Staged showcase' : '开发中实机 · 编排演示';
+      document.querySelector('.art-note').textContent = language === 'en' ? 'AI cinematic · Not gameplay footage' : 'AI 动画宣传片 · 非实机画面';
     }
     try { localStorage.setItem('paisley-language', language); } catch { /* Switching also works without storage. */ }
     if (updateUrl) {
