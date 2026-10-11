@@ -35,7 +35,7 @@ window.siteEnglish = {
   "下载实机视频": "Download gameplay video",
   "魔法，在此刻发生": "See the magic in action",
   "开发中实机": "Gameplay in development",
-  "小公主": "The Princess",
+  "Paisley": "Paisley",
   "马格克": "Magec",
   "晨曦光矛": "Dawn spears",
   "每一道回廊，": "Every path leads",
@@ -55,7 +55,7 @@ window.siteEnglish = {
   "做《Paisley异闻录》的初衷很简单：": "The reason I started making Paisley was simple:",
   "我想和孩子多一种一起互动的方式。": "I wanted another way to connect with my child.",
   "这款游戏，是我和孩子一起互动、一起创造的一个载体。我希望这段相处的时间，能慢慢变成一个可以走进去、可以亲手探索的小世界。": "This game is a place for us to interact and create together. I hope the time we spend together can gradually become a little world we can step into and explore for ourselves.",
-  "在这里，想象可以拥有形状：小公主挥起魔杖，森林之外还有沼泽与星河。做游戏的过程，也可以成为我们认识彼此的过程。": "Here, imagination takes shape: a little princess raises her wand, and beyond the forest lie swamps and stars. Making the game can also be a way for us to get to know each other.",
+  "在这里，想象可以拥有形状：Paisley挥起魔杖，森林之外还有沼泽与星河。做游戏的过程，也可以成为我们认识彼此的过程。": "Here, imagination takes shape: Paisley raises her wand, and beyond the forest lie swamps and stars. Making the game can also be a way for us to get to know each other.",
   "我想留下的，不只是一款游戏。更是我们一起参与创造的这段时光，以及一个可以并肩出发的地方。": "I want to preserve more than a game: the time we spent creating it together, and a place where we can set out side by side.",
   "希望有一天，回头看这个小世界时，": "I hope that one day, looking back at this little world,",
   "我们都能说：这是我们一起做的。": "we can both say: we made this together.",
@@ -163,7 +163,7 @@ window.siteEnglish = {
   "怪物 · 参考故事": "Monsters · Reference",
   "Boss · 参考故事": "Boss · Reference",
   "伙伴 · 参考故事": "Companions · Reference",
-  "小公主专属变身的参考卡。": "Inspiration for the Princess’s signature transformation.",
+  "Paisley专属变身的参考卡。": "Inspiration for Paisley’s signature transformation.",
   "童话森林中的蝙蝠敌人参考。": "Inspiration for the bats of Fairytale Forest.",
   "童话森林中的月兔参考。": "Inspiration for the moon rabbits of Fairytale Forest.",
   "童话森林中的无毛犬参考。": "Inspiration for the hairless dogs of Fairytale Forest.",
@@ -188,9 +188,9 @@ window.siteEnglish = {
   "地图奇遇": "Encounters",
   "灵兽伙伴": "Companions",
   "五只灵兽，自带被动与主动能力。让蜂鸟守护、月光扫场，或召来人鱼潮汐与纺车马的冥火奔袭。": "Five spirits, each with a passive benefit and an active ability. Find protection, sweeping moonlight, healing tides or a fiery charge.",
-  "通关积累角色成长，解锁专属力量的装备资格。战斗中积攒充能，在关键时刻释放小公主的黑曜石蝴蝶等专属技能。": "Grow your hero through completed adventures and unlock signature powers. Build charge in combat and unleash abilities such as the Princess’s Obsidian Butterfly.",
+  "通关积累角色成长，解锁专属力量的装备资格。战斗中积攒充能，在关键时刻释放Paisley的黑曜石蝴蝶等专属技能。": "Grow your hero through completed adventures and unlock signature powers. Build charge in combat and unleash abilities such as Paisley’s Obsidian Butterfly.",
   "近期版本编排实录：动态分屏、逃跑宝箱、连环陶罐、沉城引灯、引力弹珠与 Boss 战。": "A recent staged capture: dynamic split-screen, runaway chests, chained pots, lantern escort, gravity marbles and a boss battle.",
-  "小公主当前游戏形象": "The Princess current in-game appearance",
+  "Paisley当前游戏形象": "Paisley’s current in-game appearance",
   "从星弹到流星花雨，再到星穹盛放。用星光锁定敌群，让月光涟漪守住身边的空间。": "From star bolts to meteor showers and a sky full of starlight. Target the horde while moonlight ripples protect the space around you.",
   "流星花雨": "Meteor shower",
   "星穹盛放": "Starlit bloom",
@@ -237,8 +237,8 @@ window.siteEnglish = {
   "成长与合作，看见完整的循环。": "A clearer look at growth and co-op.",
   "本地双人合作，靠近合屏、远离动态分屏。各自选择技能与伙伴，共享成长；队友倒下时，靠近救援再一起向前。": "Play local co-op with a shared view up close and dynamic split-screen farther apart. Choose your own skills and companion, share progression and revive a fallen partner.",
   "两位主角，两种战斗节奏。": "Two heroes. Two ways to fight.",
-  "小公主与马格克": "The Princess and Magec",
-  "小公主与马格克，以星光和太阳魔法迎战怪潮。": "The Princess and Magec face the horde with starlight and solar magic.",
+  "Paisley与马格克": "Paisley and Magec",
+  "Paisley与马格克，以星光和太阳魔法迎战怪潮。": "Paisley and Magec face the horde with starlight and solar magic.",
   "从动态分屏与独立选技，到信物收集与伙伴装备，展示一局冒险内外的选择。": "From dynamic split-screen and independent upgrades to tokens and companion equipment, discover choices within and between runs.",
   "收集金币与晨曦日轮碎片，解锁马格克。通关提升角色等级，逐步获得专属技能与伙伴的装备资格。": "Collect coins and a Dawn Sun Fragment to unlock Magec. Grow through completed adventures to equip signature powers and companions.",
   "看看现在的战斗与探索。": "See combat and exploration in action.",
@@ -306,8 +306,8 @@ Object.assign(window.siteEnglish, {
 });
 
 Object.assign(window.siteEnglish, {
-  "小公主的原型参考，是我的女儿。": "My daughter is the inspiration behind the little princess.",
-  "女儿的照片，以游戏小公主风格呈现": "A photo of my daughter, reimagined in the style of the game’s little princess"
+  "Paisley的原型参考，是我的女儿。": "My daughter is the inspiration behind Paisley.",
+  "女儿的照片，以游戏Paisley风格呈现": "A photo of my daughter, reimagined in the style of Paisley"
 });
 
 Object.assign(window.siteEnglish, {
