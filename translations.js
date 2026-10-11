@@ -324,4 +324,6 @@ Object.assign(window.siteEnglish, {
 
 Object.assign(window.siteEnglish, {"选择你的冒险伙伴。": "Choose your adventurer.", "两位主角，更多相遇正在路上。": "Two heroes, with more encounters to come.", "敬请期待": "Coming soon"});
 
+Object.assign(window.siteEnglish, {"15秒故事开场：小公主化为灵体进入异闻录": "15-second opening: Paisley enters the storybook as a spirit", "下载故事视频": "Download story video", "翻开异闻录，走进故事。": "Open the book. Enter the story.", "当传说忘记了结局，Paisley回应书中的求救，化为灵体进入异闻之境。": "As legends forget their endings, Paisley answers a call from the book and enters its world as a spirit.", "故事开场动画 · 中文配音 · 非实机画面": "Opening cinematic · Chinese dialogue · Not gameplay footage"});
+
 Object.assign(window.siteEnglish, {"捣蛋小精灵": "Mischievous Sprite", "追上四处逃窜的小精灵，碰到它就能收获金币。": "Chase the mischievous sprite and collect coins each time you catch up."});
