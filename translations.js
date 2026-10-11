@@ -323,3 +323,5 @@ Object.assign(window.siteEnglish, {
 });
 
 Object.assign(window.siteEnglish, {"选择你的冒险伙伴。": "Choose your adventurer.", "两位主角，更多相遇正在路上。": "Two heroes, with more encounters to come.", "敬请期待": "Coming soon"});
+
+Object.assign(window.siteEnglish, {"捣蛋小精灵": "Mischievous Sprite", "追上四处逃窜的小精灵，碰到它就能收获金币。": "Chase the mischievous sprite and collect coins each time you catch up."});
