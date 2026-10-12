@@ -336,3 +336,5 @@ Object.assign(window.siteEnglish, {
 });
 
 Object.assign(window.siteEnglish, {"跟随金色小鸟，找到它为你发现的隐藏宝箱。": "Follow the golden bird to the hidden treasure chest it has found for you."});
+
+Object.assign(window.siteEnglish, {"这款游戏，是我和孩子一起互动的一个载体。Paisley也是我孩子的英文名，我想留下的，不只是一款游戏。更是我们一起参与创造的这段时光，以及一个可以并肩出发的地方。": "This game is a way for my child and me to connect. Paisley is also my child’s English name. I want to preserve more than a game: the time we spend creating together, and a place where we can set out side by side."});
